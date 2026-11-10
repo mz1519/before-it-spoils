@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d9caedf5ff140189e4837edce39358, type: 3}
+  m_Name: FoodData_Fish
+  m_EditorClassIdentifier: Assembly-CSharp::FoodData
+  foodName: Fish
+  category: 1
+  cookedDisplayName: 
+  staleDays: 3
+  rottenDays: 5
+  freshSprite: {fileID: -1915776564401465818, guid: 5374bbbbec2d742e4a0b4f9f24703ab2, type: 3}
+  staleSprite: {fileID: 1516930662554755275, guid: c6cc01a59460142dea0314be2beccaf8, type: 3}
+  rottenSprite: {fileID: 7441527458068083637, guid: d4f5835d2d17148caac88ead97780cf1, type: 3}

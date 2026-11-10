@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d9caedf5ff140189e4837edce39358, type: 3}
+  m_Name: FoodData_Bocai
+  m_EditorClassIdentifier: Assembly-CSharp::FoodData
+  foodName: Spinach
+  category: 0
+  cookedDisplayName: Spinach
+  staleDays: 3
+  rottenDays: 5
+  freshSprite: {fileID: 1033513770721299503, guid: de63171b4c74545e9a43ff571ba414d3, type: 3}
+  staleSprite: {fileID: 21300000, guid: 9a1292842a2d349ca91dc49e12a6c4b4, type: 3}
+  rottenSprite: {fileID: 21300000, guid: ea476c3bd857c4c669a8807c50a54037, type: 3}

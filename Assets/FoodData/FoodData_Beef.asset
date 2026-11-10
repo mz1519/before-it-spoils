@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d9caedf5ff140189e4837edce39358, type: 3}
+  m_Name: FoodData_Beef
+  m_EditorClassIdentifier: Assembly-CSharp::FoodData
+  foodName: Beef
+  category: 1
+  cookedDisplayName: Beef
+  staleDays: 3
+  rottenDays: 5
+  freshSprite: {fileID: -965513180393346931, guid: 91c2244e05c1a43ac99277dfdae4db0e, type: 3}
+  staleSprite: {fileID: -6388084563454383462, guid: dd98cedd11f974f54a2e820e9f282414, type: 3}
+  rottenSprite: {fileID: 8897822500514199397, guid: 3878a23e6ad414aa386aaaaa65f8eb95, type: 3}

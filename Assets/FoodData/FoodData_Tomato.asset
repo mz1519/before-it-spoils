@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d9caedf5ff140189e4837edce39358, type: 3}
+  m_Name: FoodData_Tomato
+  m_EditorClassIdentifier: Assembly-CSharp::FoodData
+  foodName: Tomato
+  category: 0
+  cookedDisplayName: Tomato
+  staleDays: 3
+  rottenDays: 7
+  freshSprite: {fileID: -8113185096396602001, guid: 77584aed855ba4bdcab0d2214d4fcaf1, type: 3}
+  staleSprite: {fileID: 7974498548258917168, guid: eefad39acc6b44e09a21f609315f07d9, type: 3}
+  rottenSprite: {fileID: 2381334905237668380, guid: ea870c041b0c64e2c989c2fad0487f81, type: 3}

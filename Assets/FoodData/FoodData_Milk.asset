@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d9caedf5ff140189e4837edce39358, type: 3}
+  m_Name: FoodData_Milk
+  m_EditorClassIdentifier: Assembly-CSharp::FoodData
+  foodName: Milk
+  category: 3
+  cookedDisplayName: Milk
+  staleDays: 3
+  rottenDays: 7
+  freshSprite: {fileID: -321318036669055807, guid: 5ae423b27d08c4964a867bf5d60ba3ee, type: 3}
+  staleSprite: {fileID: 5637604957978535163, guid: f7809377781d44571a5683f7643b0e1c, type: 3}
+  rottenSprite: {fileID: 1387752470110809542, guid: d1502746e9ecb4b78bc7972854f3ed89, type: 3}

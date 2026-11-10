@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83d9caedf5ff140189e4837edce39358, type: 3}
+  m_Name: FoodData_Blueberry
+  m_EditorClassIdentifier: Assembly-CSharp::FoodData
+  foodName: Blueberry
+  category: 2
+  cookedDisplayName: 
+  staleDays: 3
+  rottenDays: 5
+  freshSprite: {fileID: 6705345134419007271, guid: 90391e4c85d614021918c655cc91c894, type: 3}
+  staleSprite: {fileID: 7632013408279286159, guid: a1795af90499b4acfad67ce50c06c6f3, type: 3}
+  rottenSprite: {fileID: -4819963412069963180, guid: fc6e382032f68480fa733e24743f2519, type: 3}
